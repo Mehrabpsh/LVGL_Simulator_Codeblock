@@ -782,18 +782,8 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="lvgl/src/widgets/win/lv_win.h" />
-		<Unit filename="lvgl/tests/src/lv_test_conf.h" />
-		<Unit filename="lvgl/tests/src/lv_test_helpers.h" />
-		<Unit filename="lvgl/tests/src/lv_test_indev.h" />
-		<Unit filename="lvgl/tests/src/lv_test_init.h" />
-		<Unit filename="lvgl/tests/unity/unity.h" />
-		<Unit filename="lvgl/tests/unity/unity_internals.h" />
-		<Unit filename="lvgl/tests/unity/unity_support.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="task_def.h">
-			<Option target="Debug" />
 		</Unit>
 		<Extensions>
 			<code_completion>
